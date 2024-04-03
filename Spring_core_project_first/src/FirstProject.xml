@@ -7,4 +7,6 @@
                http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
   <bean id="ram" class="SpringFirstPro.Ram"></bean>
   <bean id="shyam" class="SpringFirstPro.Shyam"></bean>
+  
+  <bean id="ram2" class="SpringFirstPro.Ram"></bean>
 </beans>
