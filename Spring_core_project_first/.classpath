@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/jar_files/spring jar files/spring-core-5.1.18.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/jar_files/spring jar files/spring-beans-5.1.18.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/jar_files/spring jar files/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/apache-tomcat-10.1.15/lib/annotations-api.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="https://jakarta.ee/specifications/annotations/2.1/apidocs/jakarta.annotation/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
